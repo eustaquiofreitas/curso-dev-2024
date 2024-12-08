@@ -1,5 +1,8 @@
 function Home(){
-    return <h1>Página Inicial</h1>
+    return <div>
+        <h1>Curso de Programação Curso Dev 2024.</h1>
+        <h2>Treinamento em programação.</h2>
+    </div>
 }
 
 export default Home
