@@ -7,4 +7,10 @@ function Home(){
     </div>
 }
 
+function onClick() {
+    let dado = prompt("Digite O valor")
+    return dado
+}
+
+onclick()
 export default Home
