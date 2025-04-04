@@ -7,9 +7,12 @@
   "name": "curso-dev-2024",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^29.6.2"
+  },
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "test": "jest"
   },
   "author": "",
   "license": "MIT",
