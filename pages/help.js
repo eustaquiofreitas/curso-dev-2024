@@ -1,2 +1,0 @@
-const datadenascimento = 44
-
